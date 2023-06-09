@@ -14,7 +14,7 @@ Acá, Martín Parolari.
                                                                                                                                                  </br>
                                                                                                                                                          </br>
                                                                                                                                                  
-Estoy formándome como Desarrollador FrontEnd, con estudios en la dígital school <code>CODERHOUSE</code>, sumado a numerosas horas de bootscamp en <code>OPEN BOOTSCAMP</code>, <code>CÓDIGO FACILITO</code>, entre otros... Vengo de trabajar en áreas referidas a la comunicación social y, por cuestiones de la vida, me hallé encontrando una veta mía muy interesante referida a la programación. Estoy en constante plan de formación.   
+Desarrollador FrontEnd en constante formación, con estudios en la dígital school <code>CODERHOUSE</code>, sumado a numerosas horas de bootscamp en <code>OPEN BOOTSCAMP</code>, <code>CÓDIGO FACILITO</code>, entre otros... Vengo de trabajar en áreas referidas a la comunicación social y, por cuestiones de la vida, me hallé encontrando una veta mía muy interesante referida a la programación. Estoy en constante plan de formación.   
                                                                                                                                                          </br>
                                                                                                                                                          </br>
 **Lenguajes y herramientas:**
@@ -52,7 +52,7 @@ Here, Martin Parolari.
 </a>
                                                                                                                                                  </br>
                                                                                                                                                          </br>
-I am training as a FrontEnd Developer, with studies at the digital school <code>CODERHOUSE</code>, added to numerous hours of bootscamp at <code>OPEN BOOTSCAMP</code>, <code>CODIGO FACILITO</code>, among others. I come from working in areas related to social communication and, due to life issues, I found myself finding a very interesting vein of mine related to programming. I am in constant training plan.  
+Front-End developer in constant training, with studies at the digital school <code>CODERHOUSE</code>, added to numerous hours of bootscamp at <code>OPEN BOOTSCAMP</code>, <code>CODIGO FACILITO</code>, among others. I come from working in areas related to social communication and, due to life issues, I found myself finding a very interesting vein of mine related to programming. I am in constant training plan.  
                                                                                                                                                          </br>
                                                                                                                                                          </br>
 
