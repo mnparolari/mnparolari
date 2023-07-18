@@ -3,7 +3,7 @@
 Acá, Martín Parolari.
 
 <a href="https://www.linkedin.com/in/mart%C3%ADn-nicol%C3%A1s-parolari-a0092799/">
-  <img align="left" alt="Linkedin-Parolari" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg)" />
+  <img align="left" alt="Linkedin-Parolari" width="22px" src="https://gist.github.com/mbostock/3094619#file-thumbnail-png" />
 </a>
 <a href="https://www.instagram.com/mnparolari/">
   <img align="left" alt=Instagram-Parolari" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
