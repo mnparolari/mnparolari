@@ -9,7 +9,7 @@ Acá, Martín Parolari.
   <img align="left" alt=Instagram-Parolari" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/mnparolari">
-  <img align="left" alt="Twitter-Parolari" width="22px" src="https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)" />
+  <img align="left" alt="Twitter-Parolari" width="22px" src="https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki" />
 </a>
                                                                                                                                                  </br>
                                                                                                                                                          </br>
